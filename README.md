@@ -86,7 +86,7 @@
    [Ekran logowania](#12-ekran-logowania) 
 
  ## 13.Pliki konfiguracyjne
-   [Pliki konfiguracyjne]()  
+   [Pliki konfiguracyjne](#13pliki-konfiguracyjne-1)  
 
 #
 #
