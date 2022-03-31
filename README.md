@@ -268,6 +268,15 @@ Przechodzimy na stronę internetową  [link](https://www.openoffice.org/pl/downl
     Przechodzimy do katalogu gdzie go pobraliśmy i rozpakowujemy  
   
     Za pomocą komendy tar -xf *pobrany plik*tar.gz  
+    Przechodzimy do katalogu pl/DEBS   
+  
+    I instalujemy w nim paczki  poleceniem  
+  
+    sudo apt install ./openoffice_* ./openoffice-pl_* ./*writer* ./openoffice-core0* ./openoffice-ure_* ./openoffice-pyuno_* ./openoffice-images_* ./desktop-integration/*.deb ./openoffice-pl-res_*
+   
+   Za pomocą polecenia openoffice4 uruchamiamy program   
+  
+![](./img/Zrzut%20ekranu%20(2).png)
    
      
    ## 8.Instalacja i konfiguracja sudo
