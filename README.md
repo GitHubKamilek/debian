@@ -304,7 +304,7 @@ Dodajemy tą linię przed 0includedir
   
 Autostart   
   
-    Na końcu pliku dodajemy `/.fluxbox.startup linijkę: exec xterm podmieniamy róznież exec fluxbox na fluxbox  
+    Na końcu pliku dodajemy `/.fluxbox/startup linijkę: exec xterm podmieniamy róznież exec fluxbox na fluxbox  
   
 ### 10. Ikony na pulpit:
   
